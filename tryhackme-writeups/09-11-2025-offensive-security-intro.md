@@ -1,5 +1,6 @@
 # Room: Offensive security into
 **Date**: 09-11-2025
+
 **Main task**: Hack your first website (legally in a safe environment) and experience an ethical hacker's job.
 
 ## Notes
