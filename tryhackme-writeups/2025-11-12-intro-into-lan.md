@@ -1,4 +1,4 @@
-# Room: Into into LAN
+# Room: Intro into LAN
 
 **Date**: 12-11-2025
 
